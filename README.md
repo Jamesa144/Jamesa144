@@ -2,6 +2,25 @@
 
 I'm a motivated software developer with a solid foundation in computer programming and cybersecurity. Through my academic journey, I've honed my skills in Python, Java, C++, and JavaScript, and have worked with MySQL for database management.
 
+**🎓 Education:**
+- **Bachelor of Applied Technology: Cybersecurity<br>**
+Lone Star College, Kingwood, TX<br>
+Completed: Summer 2024 (Pending official transcript)
+
+- **Associate of Applied Science: Computer Programming Specialist<br>**
+Lone Star College, Kingwood, TX<br>
+Graduation Date: December 19, 2022<br>
+Honors: Cum Laude
+
+
+- **Certificate: Computer Programmer<br>**
+Lone Star College, Kingwood, TX<br>
+Confer Date: December 19, 2022
+
+- **Certificate: Computer Programming Specialist II<br>**
+Lone Star College, Kingwood, TX<br>
+Confer Date: December 19, 2022
+
 **💻 What I Do:**
  -  Academic Projects: I've completed various projects during my studies that demonstrate my ability to build software solutions, write clean and efficient code, and solve complex problems.
  - Web Development: Proficient in creating web applications using JavaScript, HTML and CSS.

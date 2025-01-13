@@ -5,7 +5,8 @@ I'm a motivated software developer with a solid foundation in computer programmi
 **🎓 Education:**
 - **Bachelor of Applied Technology: Cybersecurity<br>**
 Lone Star College, Kingwood, TX<br>
-Completed: Summer 2024 (Pending official transcript)
+Completed: December 2024<br>
+Honors: Magna Cum Laude
 
 - **Associate of Applied Science: Computer Programming Specialist<br>**
 Lone Star College, Kingwood, TX<br>
